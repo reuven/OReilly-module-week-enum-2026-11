@@ -1,6 +1,6 @@
 # Notes, programs, and files
 
-This repo contains the notebook + files from my training class.
+This repo contains the notebook + files from today's session.
 
 Enjoy!
 
@@ -18,7 +18,7 @@ If you liked this training, you might also like:
 ## Books:
 - My first book, "Python Workout": https://PythonWorkout.com/
 - My second book, "Pandas Workout": https://PandasWorkout.com/
-- My new book, "AI- Assisted Python for Nonprogrammers," in pre-release at https://learning.oreilly.com/library/view/ai-assisted-python-for/9798341661622/
+- My new book, "AI- Assisted Python for Nonprogrammers," at https://learning.oreilly.com/library/view/ai-assisted-python-for/9798341661622/
 
 Want to get access to all of my courses? Check out my classes at https://LernerPython.com/
 
