@@ -1,4 +1,4 @@
-from enum import auto
+from enum import Enum, auto
 
 class Month(Enum):
     JANUARY = auto()
