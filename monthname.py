@@ -14,7 +14,7 @@ class Month(Enum):
     NOVEMBER = auto()
     DECEMBER = auto()
 
-def month_name(a_month):
+def month_name(a_month:Month) -> str:
     return a_month.name
 
 print(month_name(Month.JANUARY))
